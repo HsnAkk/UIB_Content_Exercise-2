@@ -15,6 +15,6 @@ Single webpage about Lemon Drizzle Slices Recipe
 
 ![The overview](./images/Desktop.png "The general overview")
 
-## The onlive version
+## The online version
 
 In order to see live version, just [click...!](https://hsnakk.github.io/UIB_Content_Exercise-2/)
