@@ -11,7 +11,7 @@ Single webpage about Lemon Drizzle Slices Recipe
 - Link should be opened in new Tab and on hover color will be changed to green
 - Please just code what you see, neither less nor more.
 
-## The image overview
+## The desktop overview
 
 ![The overview](./images/Desktop.png "The general overview")
 
